@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Itzalen Lopez
 
-Welcome to my GitHub profile! I am passionate about leveraging machine learning and AI to solve real-world problems. Below are some of the exciting projects I've worked on:
+Welcome to my GitHub profile! I am passionate about leveraging ML/AI to solve real-world problems. Below are some of the exciting projects I've worked on:
 
 ----------
 
