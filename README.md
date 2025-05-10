@@ -1,3 +1,4 @@
+
 # 👋 Hi, I’m Itzalen
 
 Welcome to my space—where **AI**, **cybersecurity**, and **systems thinking** meet.  
@@ -9,13 +10,6 @@ I explore how technology behaves, where risk emerges, and what thoughtful design
 
 ---
 
-### 🚀 **SparkRockets – Startup Venture Capital Selector Engine**  
-🧠 *Break Through Tech AI Program (Fall 2024)*  
-Check out my team’s project for a real-world ML application in startup-investor matching.  
-🔗 [Project Repository](https://github.com/cactusJ12/Sparkrockets-BTTAI-Startup-Venture-Capital-Selector-Engine-)
-
----
-
 ### 🧬 **WiDS Datathon 2025 – ADHD Prediction in the Female Brain**  
 🧠 *Break Through Tech AI Program (Spring 2025)*  
 👩‍🔬 *UCLA Team 2 – Kaggle Challenge*  
@@ -24,9 +18,15 @@ We explored sex-specific patterns in ADHD using AI to understand how the female 
 
 ---
 
+### 🚀 **SparkRockets – Startup Venture Capital Selector Engine**  
+🧠 *Break Through Tech AI Program (Fall 2024)*  
+Check out my team’s project for a real-world ML application in startup-investor matching.  
+🔗 [Project Repository](https://github.com/cactusJ12/Sparkrockets-BTTAI-Startup-Venture-Capital-Selector-Engine-)
+
+---
+
 ### 🌍 **AI Life Ladder Prediction Model**  
 🧠 *Break Through Tech AI Program (Summer 2024)*  
 📊 *World Happiness Report Dataset*  
 Built a regression model to predict Life Ladder scores (self-reported well-being) using socio-economic and political indicators.  
 🔗 [Project Repository](https://github.com/Itz-creator07/AI-Life-ladder-Prediction-model/tree/main)
-
