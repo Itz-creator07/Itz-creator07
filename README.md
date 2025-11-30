@@ -23,7 +23,7 @@ Built an XGBoost + SHAP framework that not only detects network attacks with 95%
 ### 🌐 **AI Explained: Interactive Educational Platform**
 📚 *Educational Initiative (2024)*
 💡 **Making AI Accessible to Everyone**
-Created a bilingual (English) educational website that demystifies AI concepts, explores AI safety, and promotes responsible technology use. Features dark mode, interactive design, and clear explanations for non-technical audiences.
+Created an educational website that demystifies AI concepts, explores AI safety, and promotes responsible technology use. Features dark mode, interactive design, and clear explanations for non-technical audiences.
 🔗 [Live Website](https://itz-creator07.github.io/AI-Explained/) | [Repository](https://github.com/Itz-creator07/AI-Explained)
 
 ---
