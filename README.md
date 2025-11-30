@@ -31,20 +31,23 @@ Created a bilingual (English) educational website that demystifies AI concepts, 
 ### 🧬 **WiDS Datathon 2025 – ADHD Prediction in the Female Brain**
 🧠 *Break Through Tech AI Program (Spring 2025)*
 🏆 👩‍🔬 *UCLA Team 2 – Kaggle Challenge (Top Winner)*
-We explored sex-specific patterns in ADHD using AI to understand how the female brain uniquely responds to the condition.
+🎯 **Sex-Specific AI Research | Top Competition Performance**
+Explored sex-specific patterns in ADHD using machine learning to understand how the female brain uniquely responds to the condition. Achieved top winner status by developing models that identified gender-based neurological differences, contributing to more personalized ADHD diagnostics and treatment approaches.
 🔗 [Project Repository](https://github.com/WiDS-Datathon-2025-UCLA-Team-2/UCLA_WiDS_Team-2)
 
 ---
 
-### 🚀 **SparkRockets – Startup Venture Capital Selector Engine**  
-🧠 *Break Through Tech AI Program (Fall 2024)*  
-Check out my team’s project for a real-world ML application in startup-investor matching.  
+### 🚀 **SparkRockets – Startup Venture Capital Selector Engine**
+🧠 *Break Through Tech AI Program (Fall 2024)*
+💡 **AI-Powered Investor-Startup Matching | Real-World ML Application**
+Developed a machine learning engine that intelligently matches startups with venture capital investors based on industry focus, investment stage, funding history, and success patterns. Built end-to-end ML pipeline including data preprocessing, feature engineering, model training (Random Forest, XGBoost), and deployment strategies for real-world startup ecosystems.
 🔗 [Project Repository](https://github.com/cactusJ12/Sparkrockets-BTTAI-Startup-Venture-Capital-Selector-Engine-)
 
 ---
 
-### 🌍 **AI Life Ladder Prediction Model**  
-🧠 *Break Through Tech AI Program (Summer 2024)*  
-📊 *World Happiness Report Dataset*  
-Built a regression model to predict Life Ladder scores (self-reported well-being) using socio-economic and political indicators.  
+### 🌍 **AI Life Ladder Prediction Model**
+🧠 *Break Through Tech AI Program (Summer 2024)*
+📊 *World Happiness Report Dataset (1,562 country-year observations)*
+🎯 **82% R² Accuracy | Top 5 Well-Being Predictors Identified**
+Built a Random Forest regression model to predict Life Ladder scores (self-reported well-being) using socio-economic and political indicators. Achieved 82% R² on test data, revealing that GDP per capita (35% importance) and social support (25% importance) are the strongest drivers of national happiness—insights valuable for policy evaluation and resource allocation.
 🔗 [Project Repository](https://github.com/Itz-creator07/AI-Life-ladder-Prediction-model/tree/main)
