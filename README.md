@@ -31,8 +31,8 @@ Created an educational website that demystifies AI concepts, explores AI safety,
 ### 🧬 **WiDS Datathon 2025 – ADHD Prediction in the Female Brain**
 🧠 *Break Through Tech AI Program (Spring 2025)*
 🏆 👩‍🔬 *UCLA Team 2 – Kaggle Challenge (Top Winner)*
-🎯 **Sex-Specific AI Research | Top Competition Performance**
-Explored sex-specific patterns in ADHD using machine learning to understand how the female brain uniquely responds to the condition. Achieved top winner status by developing models that identified gender-based neurological differences, contributing to more personalized ADHD diagnostics and treatment approaches.
+🎯 **76% Accuracy | Top 15% Kaggle Ranking (157/1,075) | 1st Place UCLA**
+Explored sex-specific patterns in ADHD using machine learning to understand how the female brain uniquely responds to the condition. Achieved top winner status among 26 UCLA teams and ranked in top 15% globally on Kaggle by developing ensemble models (Decision Trees + Random Forest) that identified gender-based neurological differences, contributing to more personalized ADHD diagnostics and treatment approaches.
 🔗 [Project Repository](https://github.com/WiDS-Datathon-2025-UCLA-Team-2/UCLA_WiDS_Team-2)
 
 ---
