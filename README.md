@@ -10,10 +10,28 @@ I explore how technology behaves, where risk emerges, and what thoughtful design
 
 ---
 
-### 🧬 **WiDS Datathon 2025 – ADHD Prediction in the Female Brain**  
-🧠 *Break Through Tech AI Program (Spring 2025)*  
+## 🚀 Featured Projects
+
+### 🔐 **X-IDS: Explainable Network Intrusion Detection System**
+🧠 *AI4ALL Explainable AI for Cybersecurity (Fall 2024)*
+🎯 **95%+ Detection Accuracy | 90% Reduction in SOC Alert Fatigue**
+Built an XGBoost + SHAP framework that not only detects network attacks with 95%+ accuracy but explains *why* each alert was triggered—reducing security analyst triage time from 5 minutes to 30 seconds.
+🔗 [Project Repository](https://github.com/Itz-creator07/AI4ALL-X-IDS)
+
+---
+
+### 🌐 **AI Explained: Interactive Educational Platform**
+📚 *Educational Initiative (2024)*
+💡 **Making AI Accessible to Everyone**
+Created a bilingual (English) educational website that demystifies AI concepts, explores AI safety, and promotes responsible technology use. Features dark mode, interactive design, and clear explanations for non-technical audiences.
+🔗 [Live Website](https://itz-creator07.github.io/AI-Explained/) | [Repository](https://github.com/Itz-creator07/AI-Explained)
+
+---
+
+### 🧬 **WiDS Datathon 2025 – ADHD Prediction in the Female Brain**
+🧠 *Break Through Tech AI Program (Spring 2025)*
 🏆 👩‍🔬 *UCLA Team 2 – Kaggle Challenge (Top Winner)*
- We explored sex-specific patterns in ADHD using AI to understand how the female brain uniquely responds to the condition.  
+We explored sex-specific patterns in ADHD using AI to understand how the female brain uniquely responds to the condition.
 🔗 [Project Repository](https://github.com/WiDS-Datathon-2025-UCLA-Team-2/UCLA_WiDS_Team-2)
 
 ---
