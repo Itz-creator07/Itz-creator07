@@ -1,12 +1,13 @@
-# Itzalen
+# Itzalen (Itz)
+📧 lopezbere695@gmail.com
 
 ## 👋 About Me
 
-I'm a student researcher building explainable AI systems for cybersecurity. I approach technical problems by understanding the human need first—what decision needs to be made, who's affected, and what breaks if this goes wrong.
+Student researcher focused on explainable AI in cybersecurity. I combine technical skills with business thinking—turning complex AI decisions into **transparent reasoning analysts can actually use**.
 
 - 🎓 **AI4ALL Research Fellow** — Developing X-IDS (Explainable Intrusion Detection System)
 - 🎓 **Break Through Tech AI Fellow** @ UCLA
-- 📚 **Business Analytics Student** @ CSU (Spring/Summer 2026)
+- 📚 **Business Analytics Student** @ CSU East Bay (Summer 2026)
 - 🎓 **Machine Learning Certificate** — Cornell Tech
 - 🎓 **Associate Degree** in IT Cybersecurity — LA Mission College
 
@@ -16,9 +17,6 @@ I'm a student researcher building explainable AI systems for cybersecurity. I ap
 - ☑️ Complexity needs justification beyond marginal performance gains
 - ☑️ What remains human matters as much as what gets automated
 
-**Also building:**
-- 🌐 [AI Explained](https://ai-explained.com) — Bilingual AI literacy resources
-- 📊 Adapted the CIA Triad to teach privacy, security, and data protection in AI systems
 
 ---
 
