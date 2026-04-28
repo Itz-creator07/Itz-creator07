@@ -34,4 +34,4 @@ Research project focused on solving alert fatigue in security operations. Making
 
 ---
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/itzlopez/) | 🌐 [AI Explained](https://ai-explained.com)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/itzlopez/) | 🌐 [AI Explained](https://itz-creator07.github.io/AI-Explained/)
