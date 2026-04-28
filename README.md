@@ -7,7 +7,7 @@ Student researcher focused on explainable AI in cybersecurity. I combine technic
 
 - 🎓 **AI4ALL Research Fellow** — Developing X-IDS (Explainable Intrusion Detection System)
 - 🎓 **Break Through Tech AI Fellow** @ UCLA
-- 📚 **Business Analytics Student** @ CSU East Bay (Summer 2026)
+- 📚 **Information Science and Data Analytics** @ CSU San Jose State University (Summer 2026)
 - 🎓 **Machine Learning Certificate** — Cornell Tech
 - 🎓 **Associate Degree** in IT Cybersecurity — LA Mission College
 
